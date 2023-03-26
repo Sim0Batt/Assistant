@@ -1,3 +1,6 @@
 # Assistant
-Assistant is a work in progress "pc-assistant" with an integred memory.
-It can be store your request and answare to them with the phrases you choose or what you usually say next of that requests.
+Assistant is a work in progress "pc-assistant".
+For now (26/3/2023) GAIA can:
+-search on youtube (type: play 'x' from youtube) 
+-search on google (type: search 'x')
+-have a todo section (type: todo and follow the instructions)
